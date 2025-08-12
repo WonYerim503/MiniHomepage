@@ -1,7 +1,5 @@
 # Yerim's MiniHomepage
 
-name: Won yerim
-_Soongsil Univ._\.
-Electronic Engineering
+## 서비스 소개 개발
 
-홈페이지 만들며 pull연습 중!
+-about.md 파일 추가
