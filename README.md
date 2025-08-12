@@ -1,3 +1,4 @@
-# 미니 홈페이지지
+# Yerim's MiniHomepage
 
-# 테스트 파일입니다
+Soongsil Univ.
+Electronic Engineering
