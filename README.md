@@ -1,7 +1,5 @@
 # Yerim's MiniHomepage
 
-name: Won yerim
-_Soongsil Univ._\.
-Electronic Engineering
+## 장바구니
 
-홈페이지 만들며 pull연습 중!
+- cart.md 추가
