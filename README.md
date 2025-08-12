@@ -1,4 +1,5 @@
 # Yerim's MiniHomepage
 
-Soongsil Univ.
+name: Won yerim
+_Soongsil Univ._\.
 Electronic Engineering
